@@ -1,4 +1,4 @@
-# "Tarentelle-minute"
+# "Tarantelle-minute"
 
 - :musical_note: [PDF sheet music](https://github.com/Zulko/sheet-music--rush-ian/raw/main/rush-ian.pdf)
 - :movie_camera: [Video performance on Youtube](https://www.youtube.com/shorts/WJyJNLNll5U)
