@@ -4,10 +4,6 @@
 
 %{
 *
-* BACH ARIA
-* Original author unknown (attributed to Fernando Sor, 1778-1839)
-* This arrangement for piano by A. de la Marmotte is licensed under a
-* Creative Commons Attribution 3.0 Unported License.
 *
 *
 * The full text of the licence can be found here:
@@ -16,7 +12,7 @@
 * In a nutshell, YOU ARE FREE to share (copy, distribute, transmit),
 * to remix or adapt the work, and to make commercial use of the work.
 *
-* BUT I ask you to cite "A. de la Marmotte" as the original author
+* BUT I ask you to cite "Zulko" as the original author
 * if you do any of the things above, just so that I can see what this
 * little piece is becoming.
 *
