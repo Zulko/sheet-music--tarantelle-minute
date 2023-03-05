@@ -27,7 +27,7 @@
 % Version 0 - 05/04/2014
 
 \header {
-  title = "Tarentelle-minute"
+  title = "Tarantelle-minute"
   arranger=""
   composer = "Zulko, Boston, 2023"
   tagline = "Published under Creative Commons Attribution Licence (CC BY 3.0 US)."
